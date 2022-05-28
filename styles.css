@@ -1,9 +1,8 @@
-
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
 
 body {
 font: normal normal 13px/16px "Open Sans", sans-serif;
-background: #dfdfdf;
+background: #7cc97a;
 }
 
 .container{
@@ -24,8 +23,8 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#fc999b;
-color:#ffffff;
+background-color:#9bfc99;
+color:#00000;
 border-radius: 5px;
 text-align:center;
 margin-top:2px;
@@ -40,7 +39,7 @@ ol {padding-left: 20px;}
 
 ol li {padding: 5px;color:#000;}
 
-ol li:nth-child(even){background: #dfdfdf;}
+ol li:nth-child(even){background: #a3d9a1;}
 
 .strike{text-decoration: line-through;}
 
