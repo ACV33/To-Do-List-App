@@ -2,7 +2,7 @@
 
 body {
 font: normal normal 13px/16px "Open Sans", sans-serif;
-background: #7cc97a;
+background: #70E188;
 }
 
 .container{
@@ -39,7 +39,7 @@ ol {padding-left: 20px;}
 
 ol li {padding: 5px;color:#000;}
 
-ol li:nth-child(even){background: #a3d9a1;}
+ol li:nth-child(even){background: #dfdfdf;}
 
 .strike{text-decoration: line-through;}
 
